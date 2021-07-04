@@ -3,7 +3,7 @@ This is the largest retail e-commerce orders dataset from Pakistan. It contains 
 
 https://www.kaggle.com/zusmani/pakistans-largest-ecommerce-dataset
 
-Following are the task performed:
+Following are the tasks performed:
 
 Task 1 • What is the best-selling category?
 Task 2 • Visualize payment method and order status frequency
