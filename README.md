@@ -9,5 +9,4 @@ Following are the tasks performed:
 #### Task 2 • Visualize payment method and order status frequency
 #### Task 3 • Find a correlation between payment method and order status
 #### Task 4 • Find a correlation between order date and item category
-#### Task 5 • Find any hidden patterns that are counter-intuitive for a layman
-#### Task 6 • Can we predict number of orders, or item category or number of customers/amount in advance?
+#### Task 5 • Can we predict number of orders, or item category or number of customers/amount in advance?
