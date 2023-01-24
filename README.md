@@ -2,6 +2,10 @@
 
 ![_alt_text_](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=Jupyter)
 ![_alt_text_](https://img.shields.io/badge/Python->3.5-3776AB?style=for-the-badge&logo=Python)
+![_alt_text_](https://img.shields.io/badge/Numpy-073343?style=for-the-badge&logo=Numpy)
+![_alt_text_](https://img.shields.io/badge/pandas-100753?style=for-the-badge&logo=pandas)
+![_alt_text_](https://img.shields.io/badge/matplotlib-366f81?style=for-the-badge&logo=matplotlib)
+![_alt_text_](https://img.shields.io/badge/seaborn-adafc2?style=for-the-badge&logo=seaborn)
 
 This is the largest retail e-commerce orders dataset from Pakistan. It contains half a million transaction records from March 2016 to August 2018. The data was collected from various e-commerce merchants as part of a research study. Further details can be found on the following link and also download csv file from the following link
 
